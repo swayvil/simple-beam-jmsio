@@ -1,0 +1,25 @@
+{
+  "dataTag": "value",
+  "UAI_DFA": "AAAAAA1MWC",
+  "UAI_SRC": "AAAAAAHVCQ",
+  "dfaTimestamp": "2019-12-03T16:00:36.180Z",
+  "nodeId": "ns=12;b=092babbbbbbbbbb7544fcbbc080bbbbb",
+  "hashcode": "bbbbbbbbbb606a80f7bbb75066b174bbbbbbbbbb",
+  "msgId": 0000000001,
+  "values": {
+    "value": {
+      "dataType": "Int32",
+      "arrayType": "Scalar",
+      "value": 716
+    },
+    "statusCode": {
+      "value": 0,
+      "description": "No Error",
+      "name": "Good"
+    },
+    "sourceTimestamp": "2019-12-03T16:00:21.188Z",
+    "sourcePicoseconds": 720900000,
+    "serverTimestamp": "2019-12-03T16:00:21.203Z",
+    "serverPicoseconds": 721700000
+  }
+}
